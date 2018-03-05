@@ -1,0 +1,40 @@
+
+body{
+    background-color:#ddffdd;
+
+}
+.main_page{
+    border-bottom: black 2px dotted;
+
+}
+
+.my-brand h1{
+    font-family:"Helvetica Neue";
+    font-size: xx-large;
+    color: #33acfe;
+}
+.doc-nav-btn{
+    margin: 5px;
+}
+h1{
+    font-family: Algerian;
+    color: #7b007b;
+
+}
+.mydate{
+    align-content: flex-start;
+}
+.scrollable-view{
+    height:400px;
+    overflow: auto;
+}
+.action-btn{
+   padding-left: 12px;
+   padding-right:12px ;
+   float: right;
+   margin-left: 8px;
+}
+/* .scrollable-view{
+     height:700px;
+    overflow: auto;
+} */
